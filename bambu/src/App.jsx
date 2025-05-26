@@ -92,10 +92,10 @@ function App() {
               </div>
             </div>
           </div>
-          <div className=" text-3xl text-white absolute bottom-5  w-full">
-            <div className=" w-full flex items-center justify-center">
-              <IoIosArrowDown className=" w-14 h-14 animate-bounce" />
-            </div>
+        </div>
+        <div className=" text-3xl text-white absolute bottom-5  w-full">
+          <div className=" w-full flex items-center justify-center">
+            <IoIosArrowDown className=" w-14 h-14 animate-bounce" />
           </div>
         </div>
       </div>
