@@ -4,6 +4,7 @@ import { HiLockClosed } from "react-icons/hi";
 import { IoIosArrowDown } from "react-icons/io";
 import { FiMenu } from "react-icons/fi";
 import { RxCross2 } from "react-icons/rx";
+import { GoArrowUpRight } from "react-icons/go";
 
 function App() {
   return (
@@ -96,6 +97,22 @@ function App() {
         <div className=" text-3xl text-white absolute bottom-5  w-full">
           <div className=" w-full flex items-center justify-center">
             <IoIosArrowDown className=" w-14 h-14 animate-bounce" />
+          </div>
+        </div>
+
+        {/* CA  */}
+        <div className=" absolute inset-0">
+          <div className=" w-full h-full flex items-center justify-center md:px-0 px-3">
+            <div className=" -mt-20 md:text-lg shadow-[3px_5px_0px_1px_#402f04] md:w-1/2 w-80 h-10 flex items-center justify-between md:px-5 px-2 bg-white rounded-full">
+              <p className=" text-[#402F04] truncate">
+                86p6HDtxfGKWDwkH899Jx7HCbY4k1qCKe16BFSSupump
+              </p>
+              <a href="/">
+                <div className=" w-7 h-7 rounded-full bg-[#402F04] flex items-center justify-center">
+                  <GoArrowUpRight className=" text-white" />
+                </div>
+              </a>
+            </div>
           </div>
         </div>
       </div>
