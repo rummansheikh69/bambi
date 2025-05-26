@@ -11,13 +11,16 @@ function App() {
       {/* 1st section  */}
       <div
         className="h-screen bg-no-repeat bg-center bg-cover relative font-knick "
-        style={{ backgroundImage: "url(/images/bg.png)" }}
+        style={{
+          backgroundImage:
+            "url(https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/ivppwgudibyoppg1itjr)",
+        }}
       >
         <div className=" px-6 md:px-36">
           <div className=" flex items-center justify-between">
             <div className=" w-64 h-36">
               <img
-                src="/images/logo.webp"
+                src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lphydyop3jbhs7zzgc5p"
                 alt="logo"
                 className=" w-full h-full object-cover"
               />
@@ -100,7 +103,10 @@ function App() {
       {/* 2nd section  */}
       <div
         className="min-h-screen bg-no-repeat bg-center bg-cover relative font-knick"
-        style={{ backgroundImage: "url(/images/bambi-floating.png)" }}
+        style={{
+          backgroundImage:
+            "url(https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/n8wvd2g5lrbftcqqdiu9)",
+        }}
       >
         <div className=" w-full py-[105px]">
           <h1 className=" text-center text-7xl text-[#402F04]">HELLO BAMBI</h1>
@@ -123,11 +129,17 @@ function App() {
       {/* 3rd section  */}
       <div
         className="h-[70vh] md:h-[80vh] bg-no-repeat bg-center bg-cover relative"
-        style={{ backgroundImage: "url(/images/bambi-surfing.png)" }}
+        style={{
+          backgroundImage:
+            "url(https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/ifnghquuhyia0i0wl9jg)",
+        }}
       >
         <div className=" w-full h-full flex flex-col items-center justify-center">
           <div className=" w-40 md:w-96 ">
-            <img src="/images/big-logo.webp" alt="" />
+            <img
+              src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/v72gjkndv2ofqgdc3pmr"
+              alt=""
+            />
           </div>
           <div className=" flex items-center gap-5 mt-5">
             <a href="">
