@@ -31,12 +31,12 @@ function App() {
               <button className=" text-lg w-36 h-9 rounded-2xl bg-black/55">
                 About
               </button>
-              <a href="">
+              <a href="https://t.me/bambisolanaa" target="_blank">
                 <button className=" text-lg w-28 h-9 rounded-2xl bg-black/55 flex items-center justify-center">
                   <FaTelegramPlane className=" w-6 h-6" />
                 </button>
               </a>
-              <a href="">
+              <a href="https://x.com/bambiionsolana" target="_blank">
                 <button className=" text-lg w-28 h-9 rounded-2xl bg-black/55 flex items-center justify-center">
                   <FaXTwitter className=" w-6 h-6" />
                 </button>
@@ -159,10 +159,10 @@ function App() {
             />
           </div>
           <div className=" flex items-center gap-5 mt-5">
-            <a href="">
+            <a href="https://t.me/bambisolanaa" target="_blank">
               <FaTelegramPlane className=" w-8 h-8" />
             </a>
-            <a href="">
+            <a href="https://x.com/bambiionsolana" target="_blank">
               <FaXTwitter className=" w-8 h-8" />
             </a>
           </div>
