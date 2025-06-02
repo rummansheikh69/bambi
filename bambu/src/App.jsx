@@ -17,7 +17,7 @@ function App() {
             "url(https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/ivppwgudibyoppg1itjr)",
         }}
       >
-        <div className=" px-6 md:px-36">
+        <div className=" px-6 md:px-36 z-50">
           <div className=" flex items-center justify-between">
             <div className=" w-64 h-36">
               <img
