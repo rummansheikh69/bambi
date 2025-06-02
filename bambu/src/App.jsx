@@ -101,13 +101,16 @@ function App() {
         </div>
 
         {/* CA  */}
-        <div className=" absolute inset-0">
+        <div className=" absolute w-full z-10">
           <div className=" w-full h-full flex items-center justify-center md:px-0 px-3">
-            <div className=" -mt-20 md:text-lg shadow-[3px_5px_0px_1px_#402f04] md:w-1/2 w-80 h-10 flex items-center justify-between md:px-5 px-2 bg-white rounded-full">
+            <div className=" mt-32 md:text-lg shadow-[3px_5px_0px_1px_#402f04] md:w-1/2 w-80 h-10 flex items-center justify-between md:px-5 px-2 bg-white rounded-full">
               <p className=" text-[#402F04] truncate">
-                86p6HDtxfGKWDwkH899Jx7HCbY4k1qCKe16BFSSupump
+                4D3jHPMLdofqgJqibaoXr1x9eAX1mQ3UBsH4CHGtpump
               </p>
-              <a href="/">
+              <a
+                href="https://pump.fun/coin/4D3jHPMLdofqgJqibaoXr1x9eAX1mQ3UBsH4CHGtpump"
+                target="_blank"
+              >
                 <div className=" w-7 h-7 rounded-full bg-[#402F04] flex items-center justify-center">
                   <GoArrowUpRight className=" text-white" />
                 </div>
