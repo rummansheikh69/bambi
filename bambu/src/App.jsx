@@ -132,15 +132,14 @@ function App() {
           <h1 className=" text-center text-7xl text-[#402F04]">HELLO BAMBI</h1>
           <div className=" px-5 md:px-[160px] 2xl:px-[225px] mt-[60px] text-4xl text-white tracking-wide">
             <p className=" text-center">
-              Bambi is an Memecoin PFP collection on Somnia, inspired by the
-              unique charm of koalas. We're building a creative community that
-              loves storytelling and collecting digital art.
+              Bambi is an Memecoin collection on Solana, inspired by the unique
+              charm of koalas. We're building a creative community that loves
+              storytelling and collecting digital art.
             </p>
             <br />
             <p className=" text-center">
               Bambi is more than just a cute character — it's a growing IP and
-              launching as the first ever Memecoin launchpad and marketplace on
-              Somnia called loomia.
+              launching as the first ever launchpad and Memecoin on Solana.
             </p>
           </div>
         </div>
