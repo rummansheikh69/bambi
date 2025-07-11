@@ -105,10 +105,10 @@ function App() {
           <div className=" w-full h-full flex items-center justify-center md:px-0 px-3">
             <div className=" mt-32 md:text-lg shadow-[3px_5px_0px_1px_#402f04] md:w-1/2 w-80 h-10 flex items-center justify-between md:px-5 px-2 bg-white rounded-full">
               <p className=" text-[#402F04] truncate">
-                4D3jHPMLdofqgJqibaoXr1x9eAX1mQ3UBsH4CHGtpump
+                9ejD7AWgktqwwnGi41ky1P4s3vnJGrRyzKgKPQNJbonk
               </p>
               <a
-                href="https://pump.fun/coin/4D3jHPMLdofqgJqibaoXr1x9eAX1mQ3UBsH4CHGtpump"
+                href="https://letsbonk.fun/token/9ejD7AWgktqwwnGi41ky1P4s3vnJGrRyzKgKPQNJbonk"
                 target="_blank"
               >
                 <div className=" w-7 h-7 rounded-full bg-[#402F04] flex items-center justify-center">
@@ -161,10 +161,8 @@ function App() {
             />
           </div>
           <div className=" flex items-center gap-5 mt-5">
-            <a href="https://t.me/bambisolanaa" target="_blank">
-              <FaTelegramPlane className=" w-8 h-8" />
-            </a>
-            <a href="https://x.com/bambiionsolana" target="_blank">
+            
+            <a href="https://x.com/BarrySol_" target="_blank">
               <FaXTwitter className=" w-8 h-8" />
             </a>
           </div>
