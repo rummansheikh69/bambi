@@ -21,13 +21,13 @@ function App() {
       >
         <div className=" px-6 md:px-36 z-50">
           <div className=" flex items-center justify-between">
-            <div className=" w-64 h-36">
+            <div className=" w-64">
 {/*               <img
                 src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lphydyop3jbhs7zzgc5p"
                 alt="logo"
                 className=" w-full h-full object-cover"
               /> */}
-<h1 className="text-3xl">BAMBO</h1>
+<h1 className="text-5xl">BAMBO</h1>
             </div>
             {/* nav for large screen  */}
             <div className=" hidden md:flex items-center gap-5 text-white  ">
