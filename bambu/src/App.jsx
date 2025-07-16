@@ -6,6 +6,8 @@ import { FiMenu } from "react-icons/fi";
 import { RxCross2 } from "react-icons/rx";
 import { GoArrowUpRight } from "react-icons/go";
 
+
+
 function App() {
   return (
     <div className="">
@@ -14,31 +16,32 @@ function App() {
         className="h-screen bg-no-repeat bg-center bg-cover relative font-knick "
         style={{
           backgroundImage:
-            "url(https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/ivppwgudibyoppg1itjr)",
+            "url(https://res.cloudinary.com/dsdg8ke2n/image/upload/v1752689170/bambo_siunor.webp)",
         }}
       >
         <div className=" px-6 md:px-36 z-50">
           <div className=" flex items-center justify-between">
             <div className=" w-64 h-36">
-              <img
+{/*               <img
                 src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lphydyop3jbhs7zzgc5p"
                 alt="logo"
                 className=" w-full h-full object-cover"
-              />
+              /> */}
+<h1 className="text-3xl">BAMBO</h1>
             </div>
             {/* nav for large screen  */}
             <div className=" hidden md:flex items-center gap-5 text-white  ">
               <button className=" text-lg w-36 h-9 rounded-2xl bg-black/55">
                 About
               </button>
-              <a href="https://t.me/bambisolanaa" target="_blank">
-                <button className=" text-lg w-28 h-9 rounded-2xl bg-black/55 flex items-center justify-center">
-                  <FaTelegramPlane className=" w-6 h-6" />
-                </button>
-              </a>
-              <a href="https://x.com/bambiionsolana" target="_blank">
+              <a href="https://x.com/bambosolana" target="_blank">
                 <button className=" text-lg w-28 h-9 rounded-2xl bg-black/55 flex items-center justify-center">
                   <FaXTwitter className=" w-6 h-6" />
+                </button>
+              </a>
+              <a href="https://x.com/i/communities/1945320771062005777" target="_blank">
+                <button className=" text-lg w-28 h-9 rounded-2xl bg-black/55 flex items-center justify-center">
+                  <span>Community</span>
                 </button>
               </a>
               <button className=" text-lg w-36 h-9 rounded-2xl bg-black/55 flex items-center justify-center gap-[1px]">
@@ -132,13 +135,13 @@ function App() {
           <h1 className=" text-center text-7xl text-[#402F04]">HELLO BAMBI</h1>
           <div className=" px-5 md:px-[160px] 2xl:px-[225px] mt-[60px] text-4xl text-white tracking-wide">
             <p className=" text-center">
-              Bambi is an Memecoin collection on Solana, inspired by the unique
+              Bambo is an Memecoin collection on Solana, inspired by the unique
               charm of koalas. We're building a creative community that loves
               storytelling and collecting digital art.
             </p>
             <br />
             <p className=" text-center">
-              Bambi is more than just a cute character — it's a growing IP and
+              Bambo is more than just a cute character — it's a growing IP and
               launching as the first ever launchpad and Memecoin on Solana.
             </p>
           </div>
@@ -155,14 +158,15 @@ function App() {
       >
         <div className=" w-full h-full flex flex-col items-center justify-center">
           <div className=" w-40 md:w-96 ">
-            <img
+{/*             <img
               src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/v72gjkndv2ofqgdc3pmr"
               alt=""
-            />
+            /> */}
+<h1 className="text-3xl">BAMBO</h1>
           </div>
           <div className=" flex items-center gap-5 mt-5">
             
-            <a href="https://x.com/BarrySol_" target="_blank">
+            <a href="https://x.com/i/communities/1945320771062005777" target="_blank">
               <FaXTwitter className=" w-8 h-8" />
             </a>
           </div>
@@ -170,7 +174,7 @@ function App() {
 
         <div className=" absolute bottom-0 w-full bg-black h-[50px] flex items-center justify-center font-sans">
           <p className=" text-center text-white text-sm">
-            Copyright © {new Date().getFullYear()} BAMBI. All Rights Reserved
+            Copyright © {new Date().getFullYear()} BAMBO. All Rights Reserved
           </p>
         </div>
       </div>
