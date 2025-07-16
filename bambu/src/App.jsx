@@ -20,14 +20,14 @@ function App() {
         }}
       >
         <div className=" px-6 md:px-36 z-50">
-          <div className=" flex items-center justify-between">
+          <div className=" flex items-center justify-between mt-6">
             <div className=" w-64">
 {/*               <img
                 src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lphydyop3jbhs7zzgc5p"
                 alt="logo"
                 className=" w-full h-full object-cover"
               /> */}
-<h1 className="text-5xl">BAMBO</h1>
+<h1 className="text-5xl text-white">BAMBO</h1>
             </div>
             {/* nav for large screen  */}
             <div className=" hidden md:flex items-center gap-5 text-white  ">
@@ -132,7 +132,7 @@ function App() {
         }}
       >
         <div className=" w-full py-[105px]">
-          <h1 className=" text-center text-7xl text-[#402F04]">HELLO BAMBI</h1>
+          <h1 className=" text-center text-7xl text-[#402F04]">HELLO BAMBO</h1>
           <div className=" px-5 md:px-[160px] 2xl:px-[225px] mt-[60px] text-4xl text-white tracking-wide">
             <p className=" text-center">
               Bambo is an Memecoin collection on Solana, inspired by the unique
@@ -157,12 +157,12 @@ function App() {
         }}
       >
         <div className=" w-full h-full flex flex-col items-center justify-center">
-          <div className=" w-40 md:w-96 ">
+          <div className=" ">
 {/*             <img
               src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/v72gjkndv2ofqgdc3pmr"
               alt=""
             /> */}
-<h1 className="text-3xl">BAMBO</h1>
+<h1 className="text-5xl">BAMBO</h1>
           </div>
           <div className=" flex items-center gap-5 mt-5">
             
