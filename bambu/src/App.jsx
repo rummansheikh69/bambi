@@ -20,7 +20,7 @@ function App() {
         }}
       >
         <div className=" px-6 md:px-36 z-50">
-          <div className=" flex items-center justify-between mt-6">
+          <div className=" flex items-center justify-between mt-6 pt-1">
             <div className=" w-64">
 {/*               <img
                 src="https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/lphydyop3jbhs7zzgc5p"
