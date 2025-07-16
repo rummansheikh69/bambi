@@ -108,10 +108,10 @@ function App() {
           <div className=" w-full h-full flex items-center justify-center md:px-0 px-3">
             <div className=" mt-32 md:text-lg shadow-[3px_5px_0px_1px_#402f04] md:w-1/2 w-80 h-10 flex items-center justify-between md:px-5 px-2 bg-white rounded-full">
               <p className=" text-[#402F04] truncate">
-                9ejD7AWgktqwwnGi41ky1P4s3vnJGrRyzKgKPQNJbonk
+                DGuau6yY8EQQZxhMKRjCtYYQX7j1FAanoFYv4m2Wbonk
               </p>
               <a
-                href="https://letsbonk.fun/token/9ejD7AWgktqwwnGi41ky1P4s3vnJGrRyzKgKPQNJbonk"
+                href="https://letsbonk.fun/token/DGuau6yY8EQQZxhMKRjCtYYQX7j1FAanoFYv4m2Wbonk"
                 target="_blank"
               >
                 <div className=" w-7 h-7 rounded-full bg-[#402F04] flex items-center justify-center">
